@@ -18,8 +18,8 @@ This asset preserves the precise indigenous science taught to us by my mother. S
 * **The Routine Transition:** My mother used that precise structural shadow alignment to verify that the morning had ended, signaling the transition into afternoon household routines.
 
 ---
-🔗 **Sovereign System Nodes**
+🔗 **System Nodes**
 * **Ecosystem Hub:** [Linktree Master Portal](https://linktr.ee/ilefoastro)
 * **Published Blueprints:** [Amazon Author Catalog](https://amazon.com/ilefoastro)
-* **Identity Lock (DOI):** 10.5281/zenodo.22850462
+* **Identity Lock (DOI):** 10.5281/zenodo.23289889
 * **Genealogist ID Lock:** 308540
