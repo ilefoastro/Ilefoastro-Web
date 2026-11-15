@@ -1,5 +1,5 @@
 // ---- Edit these two lines ----
-var WHATSAPP_NUMBER = "REPLACE_WITH_NUMBER_IN_INTERNATIONAL_FORMAT_NO_PLUS"; // e.g. 2348012345678
+var WHATSAPP_NUMBER = "2348102372318"; // e.g. 2348012345678
 var WHATSAPP_TEXT = "Hello Ilefoastro Web, I would like a website for my business.";
 // ------------------------------
 document.querySelectorAll('[data-wa]').forEach(function(a){

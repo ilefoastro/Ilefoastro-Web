@@ -1,3 +1,4 @@
 User-agent: *
-Disallow: /
-# DRAFT. Change to "Allow: /" and add a Sitemap line when approved.
+Allow: /
+Disallow: /admin/
+Sitemap: https://ilefoastro-web.pages.dev/sitemap.xml
