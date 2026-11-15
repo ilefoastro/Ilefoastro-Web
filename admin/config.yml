@@ -1,0 +1,23 @@
+backend:
+  name: github
+  repo: ilefoastro/Ilefoastro-Web
+  branch: main
+media_folder: images
+public_folder: /images
+collections:
+  - name: portfolio
+    label: Portfolio
+    files:
+      - name: projects
+        label: Projects
+        file: content/portfolio.json
+        fields:
+          - label: Projects
+            name: projects
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Summary, name: summary, widget: text}
+              - {label: Image, name: image, widget: image, required: false}
+              - {label: Link, name: link, widget: string, required: false}
