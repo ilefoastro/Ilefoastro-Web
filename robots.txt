@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# DRAFT. Change to "Allow: /" and add a Sitemap line when approved.
