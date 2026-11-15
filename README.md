@@ -1,25 +1,23 @@
-# Ilefoastro Web Interface Hub 🌐
+# Ilefoastro Web
 
-This repository hosts the front-end user interface systems, lightweight web assets, and mobile-optimized database documentation for **The Ilefoastro Digital Vault**. 
+Simple, fast websites for small businesses in Ibadan, Nigeria.
 
-The goal of this codebase is to build fast-loading web tools that map oral African lineages out of the "Static Trap" and make them accessible via community smartphones.
+**Live site:** https://ilefoastro-web.pages.dev/
 
----
+## What we build
+- One-page and multi-section business websites that load fast on a phone
+- A WhatsApp chat button and an email contact form
+- Basic search setup so customers can find you on Google
+- A portfolio page you can update yourself
 
-## ☀️ System Documentation Node 01: Solar Chronometry
-* **Archivist:** Temitope Israel Balogun
-* **Primary Source:** My Mother (Maternal Lineage Metadata, Ref: Efonisolation)
-* **Technical Concept:** Traditional Yoruba Home Sundial Calibration
+## How it works
+1. You tell us about your business and what you want.
+2. We send a clear quote before you pay anything.
+3. We build it, you check it, then it goes live.
+4. Hosting is free. A custom domain is optional and you pay the registrar directly.
 
-This asset preserves the precise indigenous science taught to us by my mother. She trained us to read the exact time of day using the natural architecture of our home as a solar clock.
+## Contact
+- WhatsApp: https://wa.me/2348102372318
+- Links: https://linktr.ee/ilefoastro
 
-### Observational Mechanics:
-* **The Noon Check:** As the sun reaches its zenith overhead, the shadow projected onto the walls of our house contracts to its shortest physical length.
-* **The Routine Transition:** My mother used that precise structural shadow alignment to verify that the morning had ended, signaling the transition into afternoon household routines.
-
----
-🔗 **System Nodes**
-* **Ecosystem Hub:** [Linktree Master Portal](https://linktr.ee/ilefoastro)
-* **Published Blueprints:** [Amazon Author Catalog](https://amazon.com/ilefoastro)
-* **Identity Lock (DOI):** 10.5281/zenodo.23289889
-* **Genealogist ID Lock:** 308540
+Ilefoastro Web, Ibadan, Nigeria.
