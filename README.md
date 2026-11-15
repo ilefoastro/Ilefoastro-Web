@@ -17,7 +17,6 @@ Simple, fast websites for small businesses in Ibadan, Nigeria.
 4. Hosting is free. A custom domain is optional and you pay the registrar directly.
 
 ## Contact
-- WhatsApp: https://wa.me/2348102372318
 - Links: https://linktr.ee/ilefoastro
 
 Ilefoastro Web, Ibadan, Nigeria.
